@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-Editing from remote repository.
-=======
-This is the november third.
->>>>>>> Stashed changes
